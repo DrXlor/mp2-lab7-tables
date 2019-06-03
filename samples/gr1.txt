@@ -1,0 +1,22 @@
+5
+Prog
+Math
+Hist
+Phys
+DBse
+15
+Popov Roman 5 5 5 5 5
+Gridchina Masha 5 4 3 4 5
+Verigin Mark 3 3 5 5 4
+Rovinskiy Marat 3 3 3 3 3
+Esipov Innokentiy 4 5 4 5 4
+Rahmanov Grigiriy 4 4 4 4 4
+Kologrivov Isidor 5 5 5 5 5 
+Ratmanov Vadim 4 4 4 4 5
+Shpakov Yaropolk 3 3 5 4 4
+Hmelev Nifont 3 3 4 4 4
+Buynevich Nestor 3 5 3 3 4
+Gavrilenko Nikita 5 4 4 5 5
+Matveenko Fedor 4 5 5 5 5
+Barsukov Nikolay 3 3 3 4 4 
+Pashkov Boris 3 3 5 5 4

@@ -1,0 +1,22 @@
+5
+Prog
+Math
+Hist
+Phys
+DBse
+15
+Pohvisnev Kirill 5 4 5 4 5
+Klementeva Masha 5 4 5 5 5
+Kozakevich Vera 5 5 5 5 5
+Neofitov Petr 3 5 3 5 3
+Vodynskaya Regina 4 4 4 4 4
+Spenskaya Dasha 5 5 5 5 5
+Shlossman Alex 4 4 4 5 5
+Ryumina Lina 4 4 5 5 5
+Pushekova Nika 4 4 5 4 4
+Botov Mihail 3 4 4 4 4 
+Kamenskiy Nikita 4 4 5 4 3
+Kalantaev Fedor 4 4 5 5 5
+Karandeva Kristina 4 4 4 5 5
+Budberg Isidor 5 5 4 4 4
+Kosinskiy Igor 5 5 4 4 5
